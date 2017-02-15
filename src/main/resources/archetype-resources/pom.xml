@@ -171,9 +171,10 @@
 
 		<dependency>
 			<groupId>org.thymeleaf</groupId>
-			<artifactId>thymeleaf-${rootArtifactId}</artifactId>
-			<version>${version}</version>
+			<artifactId>thymeleaf-spring3</artifactId>
+			<version>${thymeleaf.version}</version>
 		</dependency>
+
 
 		<dependency>
 			<groupId>org.webjars</groupId>
